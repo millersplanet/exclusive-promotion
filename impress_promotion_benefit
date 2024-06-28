@@ -1,0 +1,14 @@
+{
+  "event_name": "impress_promotion_benefit",
+  "event_properties": {
+    "promotion_id": "promo_001",
+    "page_type": "main_page",
+    "timestamp": "2024-06-27T12:35:00Z"
+  },
+  "user_properties": {
+    "user_id": "user_12345",
+    "user_type": "returning",
+    "membership_status": "premium",
+    "last_purchase_date": "2024-06-20"
+  }
+}
